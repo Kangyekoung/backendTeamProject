@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-¾È³çÇÏ¼¼¿ä.
+ì—¬ê¸°ì— ë­˜ ì¶”ê°€í• ê¹Œ?
 </body>
 </html>
